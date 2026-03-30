@@ -24,4 +24,4 @@ Right now, I'm focused on improving my portfolio with clean, practical projects 
 Earn my first opportunity as a junior developer and keep growing through real-world experience.
 
 ## Contact
-- Linkedin: [https://www.linkedin.com/in/gpalominotorres/]
+- [LinkedIn](https://www.linkedin.com/in/gpalominotorres/)
