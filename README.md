@@ -8,7 +8,7 @@ I'm currently transitioning into software by building practical projects that st
 - Python
 - SQL / SQLite
 - Git & GitHub
-- Linux basics
+- Linux
 - Automation and scripting
 
 ## What I'm building
