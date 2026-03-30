@@ -1,6 +1,6 @@
 # Hi, I'm Gonzalo
 
-Aspiring software developer focused on Python, SQL, automation, and backend development.
+Junior developer focused on Python, SQL, automation, and backend development.
 
 I'm currently transitioning into software by building practical projects that strengthen my programming, problem-solving, and development workflow skills. My goal is to create useful applications, grow as a developer, and land my first role in software.
 
