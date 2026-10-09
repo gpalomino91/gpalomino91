@@ -52,4 +52,3 @@ Board-level mobile device repair, microsoldering, and day-to-day business operat
 
 - LinkedIn: [linkedin.com/in/gpalominotorres](https://www.linkedin.com/in/gpalominotorres)
 - Email: gpalomino1991@gmail.com
-- Store: [integrasmarttech.com](https://integrasmarttech.com)
